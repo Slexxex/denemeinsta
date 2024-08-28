@@ -1,0 +1,6 @@
+{
+    "emulator.androidColdBoot": true,
+    "emulator.androidExtraBootArgs": "",
+    "emulator.emulatorPathWindows": "C:\\Users\\efexaxr\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulator.emulatorPath": "C:\\Users\\efexaxr\\AppData\\Local\\Android\\Sdk\\emulator"
+}

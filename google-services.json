@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898983011245",
+    "project_id": "efexaxr",
+    "storage_bucket": "efexaxr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898983011245:android:ace35f4c3a8a67f4c8f724",
+        "android_client_info": {
+          "package_name": "com.efexaxrr.app.efexaxr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANAzWo764DGLpyoX3f9Z03Gz1es7Mu9JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
